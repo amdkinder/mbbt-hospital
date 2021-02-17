@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.devcraft.uz",
+      "nativeLanguage": "en"
+    },
+    "jhipsterVersion": "6.10.5",
+    "applicationType": "monolith",
+    "baseName": "hospital",
+    "packageName": "com.devcraft.uz",
+    "packageFolder": "com/devcraft/uz",
+    "serverPort": "8080",
+    "authenticationType": "jwt",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "postgresql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": false,
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "NzE3MzFlMDUxNWFiZTEwZDI0ZTk0ZTdiYWZkMDIzOWVkZDNjZDVjOGRiNzZiNjZlNWRkNWRjYjdiZWU2OTFiNmU1MzE5MDJhNjM0ZjlkMGRlZGFmZjNmYzY2YmM4ZTM5MjA5Y2UzYzBkY2JlYTRlMTkzYjkzNDU5YzYzODc5N2Q=",
+    "embeddableLaunchScript": false,
+    "useSass": true,
+    "clientPackageManager": "npm",
+    "clientFramework": "angularX",
+    "clientTheme": "litera",
+    "clientThemeVariant": "primary",
+    "creationTimestamp": 1613554606843,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": true,
+    "nativeLanguage": "en",
+    "languages": ["en", "uz-Cyrl-uz"],
+    "blueprints": []
+  }
+}
